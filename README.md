@@ -31,15 +31,15 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Akhlak-Hossain-Jim/3-column-preview-card-component-main)
-- Live Site URL: [Github Page](https://akhlak-hossain-jim.github.io/3-column-preview-card-component-main/)
+- Solution URL: [Github](https://github.com/Akhlak-Hossain-Jim/sunnyside-agency)
+- Live Site URL: [Github Page](https://ahj-frontendmentorio-ii.netlify.app)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- Reactjs
+- Styled-component properties
 - Flexbox
 - CSS Grid
 
