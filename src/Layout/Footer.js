@@ -1,7 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import { FaFacebookSquare, FaPinterest } from "react-icons/fa";
-import { AiOutlineInstagram, AiOutlineTwitter } from "react-icons/ai";
 
 function Footer() {
   return (
@@ -14,16 +12,16 @@ function Footer() {
       </div>
       <div className="links to">
         <a href="f">
-          <FaFacebookSquare />
+          <img src="/images/icon-facebook.svg" alt="facebook Icon" />
         </a>
         <a href="i">
-          <AiOutlineInstagram />
+          <img src="/images/icon-instagram.svg" alt="Instagram Icon" />
         </a>
         <a href="t">
-          <AiOutlineTwitter />
+          <img src="/images/icon-twitter.svg" alt="twitter Icon" />
         </a>
         <a href="p">
-          <FaPinterest />
+          <img src="/images/icon-pinterest.svg" alt="Pinterest Icon" />
         </a>
       </div>
     </Container>

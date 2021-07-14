@@ -44,7 +44,7 @@ function Home() {
         <div className="lefti">
           <img src="/images/desktop/image-graphic-design.jpg" alt="" />
           <div className="text" style={{ color: "hsl(167, 40%, 24%)" }}>
-            <h3>Graphic Design</h3>
+            <h2>Graphic Design</h2>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum
               mollitia tempora, quo harum aperiam similique!
@@ -54,7 +54,7 @@ function Home() {
         <div className="righti">
           <img src="/images/desktop/image-photography.jpg" alt="" />
           <div className="text" style={{ color: " hsl(198, 62%, 26%)" }}>
-            <h3>Photograph</h3>
+            <h2>Photograph</h2>
             <p>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum
               animi ipsa numquam voluptatem accusantium adipisci!
@@ -71,7 +71,7 @@ function Home() {
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga non
               laudantium accusantium, voluptates adipisci dolorem!
             </p>
-            <h4>Emily R.</h4>
+            <h2>Emily R.</h2>
             <em>Marketing Director</em>
           </div>
           <div>
@@ -80,7 +80,7 @@ function Home() {
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga non
               laudantium accusantium, voluptates adipisci dolorem!
             </p>
-            <h4>Thomas S.</h4>
+            <h2>Thomas S.</h2>
             <em>Chif Operating Director</em>
           </div>
           <div>
@@ -89,7 +89,7 @@ function Home() {
               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fuga non
               laudantium accusantium, voluptates adipisci dolorem!
             </p>
-            <h4>Jennie F.</h4>
+            <h2>Jennie F.</h2>
             <em>Business Owner</em>
           </div>
         </div>
@@ -236,7 +236,7 @@ const Container = styled.main`
       @media (max-width: 548px) {
         left: 0%;
       }
-      h3 {
+      h2 {
         font-family: "Fraunces", serif;
         font-size: 25px;
       }
@@ -288,7 +288,7 @@ const Container = styled.main`
         margin: 60px auto;
         font-size: 17px;
       }
-      h4 {
+      h2 {
         font-family: "Fraunces", serif;
         font-weight: 900;
         color: hsl(212, 27%, 19%);
