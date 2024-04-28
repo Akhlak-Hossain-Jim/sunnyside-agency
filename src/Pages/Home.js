@@ -221,9 +221,9 @@ const Container = styled.main`
       aspect-ratio: 1/1;
       object-fit: cover;
       width: 100%;
-      @media (max-width: 548px) {
-        height: 80vh;
-      }
+      // @media (max-width: 548px) {
+      //   height: 80vh;
+      // }
     }
     .text {
       position: absolute;
